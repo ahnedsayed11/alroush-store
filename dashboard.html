@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>الروش ستور — Dashboard</title>
+<link rel="stylesheet" href="dashboard.css">
+</head>
+<body>
+<div class="shell">
+<aside>
+  <div class="logo">♛ <span>ALROUSH<br><small>STORE</small></span></div>
+  <div class="user">👑<div><b>مدير الموقع</b><small>Alroush Store</small></div></div>
+  <button class="nav active" data-panel="overview">⌂ الرئيسية</button>
+  <button class="nav" data-panel="content">✎ بيانات الموقع</button>
+  <button class="nav" data-panel="phones">☎ الأرقام</button>
+  <button class="nav" data-panel="services">🎮 الخدمات</button>
+  <button class="nav" data-panel="links">🔗 الروابط</button>
+  <button class="nav" data-panel="preview">👁 معاينة</button>
+  <a href="site.html" target="_blank" class="open">فتح الموقع ↗</a>
+</aside>
+
+<main>
+<header><div><span>ALROUSH STORE</span><h1>لوحة التحكم</h1></div><button id="save" class="save">حفظ التغييرات</button></header>
+
+<section id="overview" class="panel on">
+  <div class="cards">
+    <div><b id="pcount">3</b><span>أرقام تواصل</span></div>
+    <div><b id="scount">6</b><span>خدمات</span></div>
+    <div><b id="lcount">5</b><span>روابط رسمية</span></div>
+    <div><b>5+</b><span>سنوات خبرة</span></div>
+  </div>
+  <div class="hero-card">
+    <h2>أهلاً بيك 👋</h2>
+    <p>دي لوحة إدارة أولية حقيقية للمحتوى. عدّل البيانات ثم اضغط حفظ، وبعدها افتح المعاينة.</p>
+    <div class="warning">النسخة دي تعمل بدون سيرفر: الحفظ يكون في متصفحك. الخطوة التالية بعد اعتمادها هي ربطها بقاعدة بيانات وتسجيل دخول، بحيث التعديلات تظهر للزوار على كل الأجهزة.</div>
+  </div>
+</section>
+
+<section id="content" class="panel">
+ <div class="title"><h2>بيانات الموقع</h2></div>
+ <div class="form">
+  <label>اسم المتجر<input id="storeName"></label>
+  <label>العنوان الرئيسي<input id="headline"></label>
+  <label>الوصف<textarea id="description"></textarea></label>
+  <label>سنوات الخبرة<input id="experience"></label>
+  <button class="save" onclick="saveAll()">حفظ</button>
+ </div>
+</section>
+
+<section id="phones" class="panel">
+ <div class="title"><h2>أرقام التواصل</h2><button class="add" onclick="addPhone()">+ إضافة</button></div>
+ <div id="phonesBox"></div>
+</section>
+
+<section id="services" class="panel">
+ <div class="title"><h2>الخدمات</h2><button class="add" onclick="addService()">+ إضافة</button></div>
+ <div id="servicesBox"></div>
+</section>
+
+<section id="links" class="panel">
+ <div class="title"><h2>الروابط والأزرار</h2><button class="add" onclick="addLink()">+ إضافة</button></div>
+ <div id="linksBox"></div>
+</section>
+
+<section id="preview" class="panel">
+ <div class="title"><h2>المعاينة</h2><button class="save" onclick="openSite()">فتح في صفحة كاملة ↗</button></div>
+ <iframe src="site.html" id="previewFrame"></iframe>
+</section>
+</main>
+</div>
+<div id="toast"></div>
+<script src="dashboard.js"></script>
+</body></html>

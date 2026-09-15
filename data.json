@@ -1,0 +1,84 @@
+{
+  "storeName": "الروش ستور",
+  "headline": "متاح شحن جميع الألعاب والتطبيقات",
+  "description": "شحن كوينز تيك توك • بيع وشراء الحسابات • خدمة 24 ساعة",
+  "experience": "أكثر من 5 سنوات",
+  "phones": [
+    {
+      "label": "الرئيسي",
+      "number": "01152713596"
+    },
+    {
+      "label": "الفرعي",
+      "number": "01050890768"
+    },
+    {
+      "label": "الفرعي",
+      "number": "01039300738"
+    }
+  ],
+  "services": [
+    {
+      "icon": "🎮",
+      "name": "شحن الألعاب",
+      "desc": "شحن سريع لمعظم الألعاب"
+    },
+    {
+      "icon": "🎵",
+      "name": "كوينز TikTok",
+      "desc": "شحن كوينز بأسعار مناسبة"
+    },
+    {
+      "icon": "📱",
+      "name": "شحن التطبيقات",
+      "desc": "Google Play و App Store"
+    },
+    {
+      "icon": "👤",
+      "name": "بيع وشراء الحسابات",
+      "desc": "حسابات وخدمات موثوقة"
+    },
+    {
+      "icon": "🎁",
+      "name": "Gift Cards",
+      "desc": "بطاقات رقمية حسب التوفر"
+    },
+    {
+      "icon": "🛠️",
+      "name": "حل مشاكل الشحن",
+      "desc": "مساعدة ومتابعة الطلب"
+    }
+  ],
+  "links": [
+    {
+      "icon": "✈️",
+      "name": "قناة التليجرام",
+      "desc": "@alroush_Store",
+      "url": "https://t.me/alroush_Store"
+    },
+    {
+      "icon": "🟢",
+      "name": "قناة واتساب",
+      "desc": "العروض والتحديثات",
+      "url": "https://whatsapp.com/channel/0029VbBHORO9WtByTOgou10V"
+    },
+    {
+      "icon": "👥",
+      "name": "جروب واتساب",
+      "desc": "للبيع والشراء",
+      "url": "https://chat.whatsapp.com/LpTnxG7oP6g7WHunye8V27"
+    },
+    {
+      "icon": "📘",
+      "name": "فيسبوك",
+      "desc": "الصفحة الشخصية",
+      "url": "https://www.facebook.com/share/1CZyEA2QqJ/"
+    },
+    {
+      "icon": "🛡️",
+      "name": "بوست الضمان",
+      "desc": "آراء العملاء",
+      "url": "https://www.facebook.com/share/p/1DhLKbeRYo/"
+    }
+  ]
+}
