@@ -85,7 +85,7 @@
     {
       "id": "pubg",
       "name": "PUBG Mobile",
-      "image": "https://www.pubgmobile.com/images/event/brandassets/down-logo5.png",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk3XBFL74DjqSwDoWjGIgzBffnT9w-0cKU74_I_wZ_iw&s=10",
       "description": "شحن UC وباقات دولار",
       "packages": [
         {
@@ -119,7 +119,7 @@
     {
       "id": "freefire",
       "name": "Free Fire",
-      "image": "https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202212/872433784844d0b3d55c17c0b017818d.png",
+     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpHKHa-dEUexoLuWcuuswWk2wpWLxKwLUkSWLBjkxBgg&s=10",
       "description": "جواهر وعضويات Free Fire",
       "packages": [
         {
