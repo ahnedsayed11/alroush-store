@@ -80,5 +80,160 @@
       "desc": "آراء العملاء",
       "url": "https://www.facebook.com/share/p/1DhLKbeRYo/"
     }
+  ],
+  "games": [
+    {
+      "id": "pubg",
+      "name": "PUBG Mobile",
+      "image": "https://www.pubgmobile.com/images/event/brandassets/down-logo5.png",
+      "description": "شحن UC وباقات دولار",
+      "packages": [
+        {
+          "name": "60 UC",
+          "quantity": "60 UC",
+          "price": "55"
+        },
+        {
+          "name": "325 UC",
+          "quantity": "325 UC",
+          "price": "220"
+        },
+        {
+          "name": "660 UC",
+          "quantity": "660 UC",
+          "price": "430"
+        },
+        {
+          "name": "$50",
+          "quantity": "",
+          "price": ""
+        },
+        {
+          "name": "$100",
+          "quantity": "",
+          "price": ""
+        }
+      ],
+      "note": "شحن ببجي يتم عن طريق QR فقط.\nومتوفر شحن ID لمعلومات أكثر تواصل واتساب"
+    },
+    {
+      "id": "freefire",
+      "name": "Free Fire",
+      "image": "https://dl.dir.freefiremobile.com/common/web_event/official2.ff.garena.all/202212/872433784844d0b3d55c17c0b017818d.png",
+      "description": "جواهر وعضويات Free Fire",
+      "packages": [
+        {
+          "name": "210 جوهرة",
+          "quantity": "210 جوهرة",
+          "price": "95"
+        },
+        {
+          "name": "310 جوهرة",
+          "quantity": "310 جوهرة",
+          "price": "130"
+        },
+        {
+          "name": "520 جوهرة",
+          "quantity": "520 جوهرة",
+          "price": "200"
+        },
+        {
+          "name": "أسبوعية",
+          "quantity": "عضوية أسبوعية",
+          "price": "85"
+        },
+        {
+          "name": "شهرية",
+          "quantity": "عضوية شهرية",
+          "price": "385"
+        },
+        {
+          "name": "عضوية أسبوعية مخفّضة",
+          "quantity": "عضوية أسبوعية مخفّضة",
+          "price": "45"
+        }
+      ],
+      "note": "متوفر شحن ID لمعلومات أكثر تواصل واتساب"
+    },
+    {
+      "id": "roblox",
+      "name": "Roblox",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Roblox_Logo_2025.png",
+      "description": "Robux وباقات دولار",
+      "dollarRate": "",
+      "packages": [
+        {
+          "name": "$1",
+          "quantity": "",
+          "price": ""
+        },
+        {
+          "name": "$5",
+          "quantity": "",
+          "price": ""
+        },
+        {
+          "name": "$10",
+          "quantity": "",
+          "price": ""
+        },
+        {
+          "name": "$25",
+          "quantity": "",
+          "price": ""
+        },
+        {
+          "name": "$50",
+          "quantity": "",
+          "price": ""
+        },
+        {
+          "name": "$100",
+          "quantity": "",
+          "price": ""
+        }
+      ],
+      "note": "قيمة 1$ = ______ Robux\nاكتب القيمة والسعر لاحقًا من بيانات المتجر."
+    },
+    {
+      "id": "efootball",
+      "name": "eFootball",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/EFootball_logo.svg",
+      "description": "كوينز وباقات دولار",
+      "dollarRate": "",
+      "packages": [
+        {
+          "name": "$1",
+          "quantity": "",
+          "price": ""
+        },
+        {
+          "name": "$5",
+          "quantity": "",
+          "price": ""
+        },
+        {
+          "name": "$10",
+          "quantity": "",
+          "price": ""
+        },
+        {
+          "name": "$25",
+          "quantity": "",
+          "price": ""
+        },
+        {
+          "name": "$50",
+          "quantity": "",
+          "price": ""
+        },
+        {
+          "name": "$100",
+          "quantity": "",
+          "price": ""
+        }
+      ],
+      "note": "قيمة 1$ = ______ Coins\nاكتب القيمة والسعر لاحقًا من بيانات المتجر."
+    }
   ]
 }
