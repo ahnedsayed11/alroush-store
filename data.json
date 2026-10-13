@@ -85,7 +85,7 @@
     {
       "id": "pubg",
       "name": "PUBG Mobile",
-     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk3XBFL74DjqSwDoWjGIgzBffnT9w-0cKU74_I_wZ_iw&s=10",
+     "image": "assets/photo_2026-10-14_01-53-10.jpg",
       "description": "شحن UC وباقات دولار",
       "packages": [
         {
@@ -119,7 +119,7 @@
     {
       "id": "freefire",
       "name": "Free Fire",
-     "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpHKHa-dEUexoLuWcuuswWk2wpWLxKwLUkSWLBjkxBgg&s=10",
+     "image": "assets/photo_2026-10-14_01-53-06.jpg",
       "description": "جواهر وعضويات Free Fire",
       "packages": [
         {
@@ -158,7 +158,7 @@
     {
       "id": "roblox",
       "name": "Roblox",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Roblox_Logo_2025.png",
+      "image": "assets/photo_2026-10-14_01-53-04.jpg",
       "description": "Robux وباقات دولار",
       "dollarRate": "",
       "packages": [
@@ -198,7 +198,7 @@
     {
       "id": "efootball",
       "name": "eFootball",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/EFootball_logo.svg",
+      "image": "assets/photo_2026-10-14_01-52-59.jpg",
       "description": "كوينز وباقات دولار",
       "dollarRate": "",
       "packages": [
