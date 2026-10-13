@@ -29,11 +29,11 @@ nav{display:flex;gap:20px}nav a{color:#ddd;text-decoration:none;font-weight:700}
 .gamesGrid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
 .gameCard{position:relative;overflow:hidden;cursor:pointer;min-height:250px;padding:0;background:linear-gradient(145deg,#1b0927,#09040e);border:1px solid #6e238f;border-radius:22px;transition:.25s}
 .gameCard:hover,.gameCard.active{transform:translateY(-6px);border-color:#e15cff;box-shadow:0 18px 50px #a21bda44}
-.gameImage{width:100%;height:220px;display:block;object-fit:cover;background:#100519}
-.gameCard.roblox .gameImage{object-fit:cover;padding:0}
-.gameCard.efootball .gameImage{object-fit:cover;padding:0}
-.gameCard.pubg .gameImage{object-fit:cover;padding:0}
-.gameCard.freefire .gameImage{object-fit:cover;padding:0}
+.gameImage{width:100%;height:220px;display:block;object-fit:fill;
+.gameCard.roblox .gameImage{object-fit:fill;padding:0}
+.gameCard.efootball .gameImage{object-fit:fill;padding:0}
+.gameCard.pubg .gameImage{object-fit:fill;padding:0}
+.gameCard.freefire .gameImage{object-fit:fill;padding:0}
 .gameBody{padding:16px}.gameBody h3{margin:0 0 7px;font-size:22px}.gameBody p{margin:0;color:#a89aaa;font-size:13px}
 .gamePanel{display:none;margin-top:18px;padding:22px;border:1px solid #6e238f;border-radius:24px;background:linear-gradient(145deg,#1b0927,#0b0610);scroll-margin-top:90px}
 .gamePanel.active{display:block;animation:gameIn .25s ease}.gamePanelHead{display:flex;justify-content:space-between;gap:15px;align-items:center;margin-bottom:15px}
