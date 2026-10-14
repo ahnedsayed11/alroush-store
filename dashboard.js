@@ -15,7 +15,7 @@ function del(t,i){data[t].splice(i,1);render()}
 function addPhone(){data.phones.push({label:"جديد",number:"01"});render()}
 function addService(){data.services.push({icon:"✨",name:"خدمة جديدة",desc:"وصف الخدمة"});render()}
 function addLink(){data.links.push({icon:"🔗",name:"رابط جديد",desc:"وصف الرابط",url:"https://"});render()}
-function refreshFrame(){let f=document.getElementById("previewFrame");f.src="site.html?"+Date.now()}
-function openSite(){window.open("site.html","_blank")}
+function refreshFrame(){let f=document.getElementById("previewFrame");f.src="index.html?"+Date.now()}
+function openSite(){window.open("index.html","_blank")}
 function toast(s){let x=document.getElementById("toast");x.textContent=s;x.style.display="block";setTimeout(()=>x.style.display="none",1600)}
 document.getElementById("save").onclick=saveAll;init();
