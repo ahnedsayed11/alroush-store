@@ -183,38 +183,48 @@
       "id": "roblox",
       "name": "Roblox",
       "image": "assets/photo_2026-10-14_01-53-04.jpg",
-      "description": "Robux وباقات دولار",
+      "description": "Robux وباقات اسعار",
       "dollarRate": "",
       "packages": [
         {
-          "name": "$1",
-          "quantity": "",
-          "price": ""
+          "name": "80",
+          "quantity": "80",
+          "price": "55"
         },
         {
-          "name": "$5",
-          "quantity": "",
-          "price": ""
+          "name": "160",
+          "quantity": "160",
+          "price": "105"
         },
         {
-          "name": "$10",
-          "quantity": "",
-          "price": ""
+          "name": "240",
+          "quantity": "240",
+          "price": "150"
         },
         {
-          "name": "$25",
-          "quantity": "",
-          "price": ""
+          "name": "400",
+          "quantity": "400",
+          "price": "230"
         },
         {
-          "name": "$50",
-          "quantity": "",
-          "price": ""
+          "name": "800",
+          "quantity": "800",
+          "price": "450"
+        },
+         {
+          "name": "1600",
+          "quantity": "1600",
+          "price": "890"
+        },
+           {
+          "name": "4000",
+          "quantity": "4000",
+          "price": "2100"
         },
         {
-          "name": "$100",
-          "quantity": "",
-          "price": ""
+          "name": "8000",
+          "quantity": "8000",
+          "price": "4100"
         }
       ],
       "note": "قيمة 1$ = ______ Robux\nاكتب القيمة والسعر لاحقًا من بيانات المتجر."
