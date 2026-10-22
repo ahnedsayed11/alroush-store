@@ -48,7 +48,7 @@ function renderGames(games){
         <a class="cta" target="_blank" href="${wa("01152713596")}">واتساب</a>
       </div>
       ${g.note?`<div class="gameNote">${esc(g.note)}</div>`:""}
-      ${g.dollarRate!==undefined?`<div class="gameDollar">قيمة 1$ = ${esc(g.dollarRate||"______")} كوينز/روبوكس    </div>`:""}
+      ${g.dollarRate!==undefined?`<div class="gameDollar">قيمة 1$ = ${esc(g.dollarRate||"80")} كوينز/روبوكس    </div>`:""}
       <div class="packageGrid">
         ${(g.packages||[]).map(p=>`
   <div class="packageCard">
