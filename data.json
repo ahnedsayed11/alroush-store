@@ -227,7 +227,7 @@
           "price": "4100"
         }
       ],
-      "note": "قيمة 1$ = 80 Robux."
+      "note": "قيمة 1$ = 80 Robux"
     },
     {
       "id": "efootball",
@@ -267,7 +267,7 @@
           "price": ""
         }
       ],
-      "note": "قيمة 1$ = ______ Coins."
+      "note": "1$ = ______ Coins"
     }
   ]
 }
