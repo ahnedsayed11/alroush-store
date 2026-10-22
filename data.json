@@ -86,7 +86,7 @@
       "id": "pubg",
       "name": "PUBG Mobile",
      "image": "assets/photo_2026-10-14_01-53-10.jpg",
-      "description": "شحن UC وباقات واسعار",
+      "description": "باقات واسعار شحن ببجي",
       "packages": [
         {
           "name": "60 UC",
@@ -98,20 +98,30 @@
           "quantity": "325 UC",
           "price": "220"
         },
-        {
+         {
           "name": "660 UC",
           "quantity": "660 UC",
           "price": "430"
         },
         {
-          "name": "$50",
-          "quantity": "",
-          "price": ""
+          "name": "985 UC",
+          "quantity": "985 UC",
+          "price": "640"
         },
         {
-          "name": "$100",
-          "quantity": "",
-          "price": ""
+          "name": "1320 UC",
+          "quantity": "1320 UC",
+          "price": "850"
+        },
+        {
+          "name": "3850 UC",
+          "quantity": "3850 UC",
+          "price": "1900"
+        },
+        {
+          "name": "8100 UC",
+          "quantity": "8100 UC",
+          "price": "3750"
         }
       ],
       "note": "شحن ببجي يتم عن طريق QR فقط.\nومتوفر شحن ID لمعلومات أكثر تواصل واتساب"
