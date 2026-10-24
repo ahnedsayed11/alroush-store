@@ -230,6 +230,45 @@
       "note": "قيمة 1$ = 80 Robux"
     },
     {
+  "id": "tiktok",
+  "name": "TikTok",
+  "image": "assets/tiktok.jpg",
+  "description": "شحن كوينز TikTok",
+  "packages": [
+    {
+      "name": "70 كوين",
+      "quantity": "70 كوين",
+      "price": "50"
+    },
+    {
+      "name": "350 كوين",
+      "quantity": "350 كوين",
+      "price": "220"
+    },
+    {
+      "name": "700 كوين",
+      "quantity": "700 كوين",
+      "price": "440"
+    },
+    {
+      "name": "1400 كوين",
+      "quantity": "1400 كوين",
+      "price": "860"
+    },
+    {
+      "name": "3500 كوين",
+      "quantity": "3500 كوين",
+      "price": "1970"
+    },
+    {
+      "name": "7000 كوين",
+      "quantity": "7000 كوين",
+      "price": "3940"
+    }
+  ],
+  "note": "شحن TikTok كوينز — للطلب تواصل عبر واتساب"
+    },
+    {
       "id": "efootball",
       "name": "eFootball",
       "image": "assets/photo_2026-10-14_01-52-59.jpg",
